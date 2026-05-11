@@ -1,9 +1,0 @@
-var $ = 10;
-var _a = 20;
-var a1 = 30;
-var a_1 = 40;
-var a$1 = 50;
-var a$1_ = 60;
-
-var Name = 'Utkarsh';   
-var name = 'Asthana';
