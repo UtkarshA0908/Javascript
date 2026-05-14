@@ -7,5 +7,5 @@ A collection of JavaScript practice files organized by topic.
 | Folder | Contents |
 |---|---|
 | `chapter_01_basics/` | JavaScript fundamentals — variables, data types, basic syntax |
-| `chapter_02_JS_concepts/` | Core JavaScript concepts |
-| `chapter_03_Identifier_litreals/` | Identifiers, naming conventions, literals, comments, VS Code shortcuts |
+| `chapter_02_Identifier_litreals/` | Identifiers, naming conventions, literals, comments, VS Code shortcuts |
+| `chapter_03_JS_concepts/` | Core JavaScript concepts — var, let, const, and more |
